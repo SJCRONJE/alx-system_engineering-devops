@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown sari toadoum > owner
+sudo chown betty hello > owner
