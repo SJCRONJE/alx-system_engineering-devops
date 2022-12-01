@@ -1,1 +1,1 @@
-0. Where am I?
+that switches the current user to the user betty
